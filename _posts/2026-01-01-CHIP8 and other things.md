@@ -37,11 +37,10 @@
   port to work the same.
   
   Information on the AVRduino Eddie, along with artwork for Kicad 7
-  an code sippets can be found on my github under Philosophy of Noise
+  and code sippets can be found on my github under Philosophy of Noise
   repository. There is also info on several modules I designed for my
-  modular synth and fun some starvation tube circuits.
+  modular synth and some fun starvation tube circuits.
   
   All my programming is done using arduino 1.8.19, as recomended by
   Spencer Konde for [DxCore](https://github.com/SpenceKonde/DxCore/tree/master).
-  My OS is MX Linux.
-  
+  My OS is [MX Linux](https://mxlinux.org/).
