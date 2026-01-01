@@ -2,7 +2,7 @@
 layout: post
 title: CHIP8 Emulator and other things
 ---
-## Welcome to my blog. ##
+## Welcome to my blog. 
   
   Here I will post about my efforts to write a CHIP8 emulator.
   I have already developed the core portion of the emulator and 
@@ -10,7 +10,7 @@ title: CHIP8 Emulator and other things
   doing some redesigns looking ahead at additions I want to include,
   such as an IO port, better sound and basic operating system.
   
-  ## How it started ##
+  ## How it started 
  	
   In early 2025 I was looking around for a 5v microcontoller to use
   on a project for my modular synth. The teensy LC was gone from the
@@ -19,7 +19,8 @@ title: CHIP8 Emulator and other things
   develope my own microcontroller based on the AVR128DB48. This is 
   the results.
  
-![AVRDuino Eddie.png](ScottBillingsley.github.io/_posts/AVRDuino Eddie.png)
+![AVRDuino Eddie.png]({{site.baseurl}}/_posts/AVRDuino Eddie.png)
+
 
 	AVRduino Eddie rev 2
   
@@ -30,7 +31,7 @@ title: CHIP8 Emulator and other things
   run this version at 40 mHz but have a version in a video card running at
   48 mHz.
   
-  ## Concept ##
+  ## Concept 
   
   This is the general layout of the CHIP8 emulator.
  
