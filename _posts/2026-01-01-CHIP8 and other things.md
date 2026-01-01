@@ -6,7 +6,7 @@
   doing some redesigns looking ahead at additions I want to include,
   such as an IO port, better sound and basic operating system.
   
-  # How it started
+  __How it started__
  	
   In early 2025 I was looking around for a 5v microcontoller to use
   on a project for my modular synth. The teensy LC was gone from the
@@ -23,7 +23,7 @@
   run this version at 40 mHz but have a version in a video card running at
   48 mHz.
   
-  # Concept
+  __Concept__
   
   This is the general layout of the CHIP8 emulator.
  
