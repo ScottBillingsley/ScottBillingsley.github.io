@@ -18,8 +18,8 @@ title: CHIP8 Emulator and other things
   had played around with Microchip's Curiosity Nano so I decided to 
   develope my own microcontroller based on the AVR128DB48. This is 
   the results.
-  
-  ![AVRDuino Eddie.png]https://github.com/ScottBillingsley/ScottBillingsley.github.io/blob/master/_posts/AVRDuino%20Eddie.png)
+ 
+![AVRDuino Eddie.png]({{site.baseurl}}/_posts/AVRDuino Eddie.png)
 
 	AVRduino Eddie rev 2
   
