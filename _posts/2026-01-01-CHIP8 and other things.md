@@ -6,7 +6,7 @@
   doing some redesigns looking ahead at additions I want to include,
   such as an IO port, better sound and basic operating system.
   
-  ## How it started 
+  ### How it started
  	
   In early 2025 I was looking around for a 5v microcontoller to use
   on a project for my modular synth. The teensy LC was gone from the
@@ -15,7 +15,7 @@
   develope my own microcontroller based on the AVR128DB48. This is 
   the results.
  
-![AVRDuino Eddie.png]({{site.baseurl}}/_posts/AVRDuino Eddie.png)
+![AVRDuino Eddie.png]({{site.baseurl}}/images/AVRDuino Eddie.png)
 
 
 	AVRduino Eddie rev 2
@@ -27,11 +27,11 @@
   run this version at 40 mHz but have a version in a video card running at
   48 mHz.
   
-  ## Concept 
+  ### Concept
   
   This is the general layout of the CHIP8 emulator.
  
- ![CHIP8 Concept 2.png]({{site.baseurl}}/_posts/CHIP8 Concept 2.png)
+ ![CHIP8 Concept 2.png]({{site.baseurl}}/images/CHIP8 Concept 2.png)
 
   The video card is updated on the horizontal sync pulse and is able to
   send 4 bytes per pulse. 60 fps is easily achieved in both standard
