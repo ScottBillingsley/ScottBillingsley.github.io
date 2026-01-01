@@ -19,7 +19,7 @@ title: CHIP8 Emulator and other things
   develope my own microcontroller based on the AVR128DB48. This is 
   the results.
  
-![AVRDuino Eddie.png]({{site.baseurl}}/_posts/AVRDuino Eddie.png)
+![AVRDuino Eddie.png](ScottBillingsley.github.io/_posts/AVRDuino Eddie.png)
 
 	AVRduino Eddie rev 2
   
