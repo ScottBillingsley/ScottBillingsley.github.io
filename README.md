@@ -2,10 +2,10 @@
 
 This is my blog about programming a CHIP8 emulator.
 
-![]({{site.baseurl}}/ScottBillingsley.github.io/images/chip8/My Logo.png)
+![](images/chip8/My%20Logo.png)
 
 
-![]({{site.baseurl}}/ScottBillingsley.github.io/images/chip8/Brix.png)
+![](images/chip8/Brix.png)
 
 Page live at:
 
