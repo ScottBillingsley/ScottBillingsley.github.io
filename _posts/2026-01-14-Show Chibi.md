@@ -24,12 +24,12 @@ new..
 I have gotten all the functions working except the disconnect serial.<br>
 The features as of now:<br>
 
--  Load Project:&emsp; Loads a saved porject
+-  Load Project: &emsp; Loads a saved porject
 -  Save Project: &emsp; Saves all data entered in the main txt area
--  Save HEX file: &emsp; Saves all HEX data as 0x##, 0x##, for use in a byte array
--  New:	&emsp; 	&emsp; &emsp;	Clears the text area
--  Serial: &emsp; &emsp; Set the port, baud, connect and disconnect
--  Upload: &emsp;&emsp; Upload the HEX data in the text area as binary bytes.
--  Navigate: &emsp;&emsp; Jumps to an address. 
--  Help:$~~~~~~~~~~~~~~$ Popup a free standing window with the Chip8 opcodes
--  Flowchart:$~~~~~~~~~$ Make, Save and Load simple flowcharts
+-  Save HEX file:  &ensp; &ensp; Saves all HEX data as 0x##, 0x##, for use in a byte array
+-  New:	&emsp; 	&emsp; &ensp;Clears the text area
+-  Serial: &emsp; &emsp; &ensp; Set the port, baud, connect and disconnect
+-  Upload: &emsp; &emsp; &ensp; Upload the HEX data in the text area as binary bytes.
+-  Navigate: &emsp;&ensp;&ensp;&ensp; Jumps to an address. 
+-  Help:&ensp; &emsp;&emsp;&ensp; &ensp;Popup a free standing window with the Chip8 opcodes
+-  Flowchart:&emsp;&ensp;&ensp; Make, Save and Load simple flowcharts
