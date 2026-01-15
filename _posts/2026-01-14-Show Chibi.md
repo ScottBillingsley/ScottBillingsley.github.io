@@ -22,8 +22,7 @@ new..
 ## Editor
 
 I have gotten all the functions working except the disconnect serial.<br>
-The features as of now:
-______________________________________________________________________		
+The features as of now:<br>
 
 -  Load Project:&emsp; Loads a saved porject
 -  Save Project: &emsp; Saves all data entered in the main txt area
@@ -32,5 +31,5 @@ ______________________________________________________________________
 -  Serial: &emsp; &emsp; Set the port, baud, connect and disconnect
 -  Upload: &emsp;&emsp; Upload the HEX data in the text area as binary bytes.
 -  Navigate: &emsp;&emsp; Jumps to an address. 
--  Help: &emsp; &emsp;&emsp; Popup a free standing window with the Chip8 opcodes
--  Flowchart: &emsp; &emsp; Make, Save and Load simple flowcharts
+-  Help:$~~~~~~~~~~~~~~$ Popup a free standing window with the Chip8 opcodes
+-  Flowchart:$~~~~~~~~~$ Make, Save and Load simple flowcharts
