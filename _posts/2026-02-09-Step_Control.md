@@ -19,7 +19,7 @@ An example of controlling direction change using on register.
 40A0	// SNE V0, A0
 4000	// SNE V0, 00
 # timer
-F515	// LD DT, V5
+F415	// LD DT, V4
 F007	// LD V0, DT
 4000	// SNE V0, 00
 00EE	// RET
