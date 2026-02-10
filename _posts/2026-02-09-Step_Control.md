@@ -1,6 +1,6 @@
 ## Step Control
 
-An example of controlling direction change using on register.
+An example of controlling direction change using one register.
 
 ```cpp
 
